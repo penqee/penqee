@@ -31,3 +31,13 @@ Distributed Systems: Completed MIT 6.824 labs (1–3) and comfortable with Kafka
 DevOps: Skilled in Docker, Kubernetes, CI/CD (GitHub Actions), and performance monitoring.  
 
 I'm always looking to work with people that are hopeless idealists like me, as well as who are interested in creating and working on cool, interesting, and meaningful projects! Shoot me an [e-mail](3092572427@qq.com) if that sounds like your cup of tea. ☕  
+
+<div align="center">
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=penqee&layout=compact&theme=radical&hide_border=true&card_width=450)](https://github.com/anuraghazra/github-readme-stats)
+  
+  <br/>
+  
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=penqee&show_icons=true&theme=ambient_gradient&hide_border=true&card_width=450)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
