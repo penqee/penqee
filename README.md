@@ -30,7 +30,7 @@ Databases: Experienced with MySQL (index optimization, sharding) and Redis (dist
 Distributed Systems: Completed MIT 6.824 labs (1–3) and comfortable with Kafka + microservice architectures.  
 DevOps: Skilled in Docker, Kubernetes, CI/CD (GitHub Actions), and performance monitoring.  
 
-I'm always looking to work with people that are hopeless idealists like me, as well as who are interested in creating and working on cool, interesting, and meaningful projects! Shoot me an [e-mail](3092572427@qq.com) if that sounds like your cup of tea. ☕  
+I'm always looking to work with people that are hopeless idealists like me, as well as who are interested in creating and working on cool, interesting, and meaningful projects! Shoot me an Shoot me an [email](mailto:3092572427@qq.com) if that sounds like your cup of tea. ☕  
 
 <div align="center">
   
