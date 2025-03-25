@@ -21,7 +21,7 @@ Hello there! I’m penqee 🐧, A software engineering student at Fuzhou Univers
 ## My Projects & Experience
 [FzuHelper Server](https://github.com/west2-online/fzuhelper-server) (serving 23,000+ users daily) 🚀  
 Refactor multiple interfaces, introduce cache, and participate in the deployment of corresponding services ✨  
-[DomTok](https://github.com/west2-online/fzuhelper-server) (an e-commerce backend in Go) 💡  
+[DomTok](https://github.com/west2-online/DomTok) (an e-commerce backend in Go) 💡  
 Elasticsearch deployment configuration and search function, Bloom filter and Redis cache, hot data cache and service degradation, convenient command configuration, file streaming 🌈  
 
 ## Skills & Highlights 🌞
